@@ -35,3 +35,4 @@ def simple_function_example():
 - :question: Чи подобається такий формат здачі роботи (Feedback);
 - :question: Побажання для покращення (Suggestions);
 ---
+---
